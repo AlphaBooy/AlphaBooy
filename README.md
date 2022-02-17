@@ -6,5 +6,6 @@ Hi, I'm Clément Maurin, a French developper and streamer (Twtich partener)
 - 📈💿 I'm really curious so I always try to discover new things. I'm currently into cryptocurrency, NFT's and blockchain... I'm also a huge music lover so I like working in music and discover new things on Spotify !
 - 👨‍🎓🔬The main technologies I know are web languages such as Node (Angular, Express, Sequelize...) or PHP, JavaScript but I'm also working regularly on C, C++, C#, JAVA, Python, Android...
 - 📫🔔 You can reach me by mail at clementmaurin.off@gmail.com (serious matters only) or on my social medias : https://linktr.ee/clement_alphaboy.
+- My Malt accound if you want to request a job : https://www.malt.fr/profile/clementmaurin1
 
 I'm looking forward new project and/or ideas.
